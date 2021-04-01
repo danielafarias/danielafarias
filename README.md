@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to stay up until 5 am programming  
   
 
-- ✨ Fun fact: I like beautiful and cute things   
+- ✨ Fun fact: I like beautiful and cute things, and I'm a fan of niziu, girl groups and exo, but it doesn't matter   
   
 
 <br/>  
