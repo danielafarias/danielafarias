@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Daniela, a developer learner since 2021 👨‍💻 studying to be great in front end 🚀👾</div>  
+### <div align="center">I'm Daniela, a developer learner since 2021 👨‍💻 studying to be great in front-end 🚀👾</div>  
   
 
 - 🔭 I’m currently studying Python and C#  
