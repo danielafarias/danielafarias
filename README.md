@@ -15,7 +15,7 @@
 - ❓ Ask me about anything related to stay up until 5 am programming  
   
 
-- ⚡ Fun fact: I like beautiful and cute things ✨  
+- ✨ Fun fact: I like beautiful and cute things   
   
 
 <br/>  
