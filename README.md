@@ -6,10 +6,10 @@
 ### <div align="center">I'm Daniela, a developer learner since 2021 👨‍💻 studying to be great in front-end 🚀👾</div>  
   
 
-- 🔭 I’m currently studying Python and C#  
+- 🔭 I’m currently studying JavaScript, HTML, CSS and Python 
   
 
-- 🌱 I’m currently learning JavaScript, HTML and CSS  
+- 🌱 I’m currently learning React, Node.js, Sass and SQL
   
 
 - ❓ Ask me about anything related to stay up until 5 am programming  
