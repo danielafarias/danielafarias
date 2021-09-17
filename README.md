@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://thumbs.gfycat.com/CreativeSeriousHalicore-size_restricted.gif" align="center" style="width: 100%" />
+<img src="https://thumbs.gfycat.com/CreativeSeriousHalicore-size_restricted.gif" align="center" style="width: 50%" />
 
 </div>  
   
