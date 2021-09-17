@@ -4,19 +4,19 @@
 </div>  
   
 
-### <div align="center">I'm Daniela, a developer learner since 2021 👩‍💻 studying to be great in front-end 🚀👾</div>  
+### <div align="center">I'm Daniela, a developer learner since 2021 👩‍💻 studying to be great in front-end 🚀🎮</div>  
   
 
 - 🕵️‍♀️ I’m currently studying JavaScript, HTML, CSS and React 
   
 
-- 🌱 I’m currently learning TypeScript, Node.js, Sass and Python 
+- 🔬 I’m currently learning TypeScript, Node.js, Sass and Python 
   
 
 - ❓ Ask me about anything related to stay up until 5 am programming  
   
 
-- 🌈 Fun fact: I am INFP personality, Libra and a fan of niziu, girl groups and exo, but it doesn't matter  
+- 👺 Fun fact: I am INFP personality, Libra and a fan of niziu, girl groups and exo, but it doesn't matter  
   
 
 <br/>  
