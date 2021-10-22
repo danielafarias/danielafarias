@@ -87,9 +87,7 @@
 <a href="https://www.behance.net/fariasdani3d5d" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-</div>  
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="daniela-farias-dev" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/daniela-farias-dev?trk=profile-badge">Daniela F.</a></div>
+</div> 
                 
 
 <br/>  
