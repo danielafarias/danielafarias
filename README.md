@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://toy.bandai.co.jp/assets/tamagotchi/images/smart/niziu/img_character08_02.gif" align="center" style="width: 30%" />
+<img src="https://i.pinimg.com/originals/1d/31/41/1d3141b5d23d6d433c07f639c0459594.gif" align="center" style="width: 30%" />
 
 </div>  
   
