@@ -16,7 +16,7 @@
 - ❓ Ask me about anything related to stay up until 5 am programming  
   
 
-- ✨ Fun fact: I am INFP personality, Libra and a fan of niziu, girl groups and exo, but it doesn't matter ⚢ 
+- ✨ Fun fact: I am ISTP-T personality and a fan of niziu, girl groups and exo, but it doesn't matter ⚢ 
   
 
 <br/>  
