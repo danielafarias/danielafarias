@@ -7,16 +7,16 @@
 ### <div align="center">I'm Daniela, a developer learner since 2021 👩‍💻 studying to be great in front-end </div>  
   
 
-- 🕵️‍♀️ I’m currently studying JavaScript, HTML, CSS and ReactJS 
+- 🔺 I’m currently studying JavaScript, HTML, CSS and ReactJS 
   
 
-- 🍄 I’m currently learning TypeScript, Node.js, NextJS and NestJS 
+- 🔺 I’m currently learning TypeScript, Node.js, NextJS and NestJS 
   
 
-- ❓ Ask me about anything related to stay up until 5 am programming  
+- 🔺 Ask me about anything related to stay up until 5 am programming  
   
 
-- ✨ Fun fact: I am ISTP-T personality and a fan of niziu, girl groups and exo, but it doesn't matter 
+- 🔺 Fun fact: I am ISTP-T personality and a fan of niziu, girl groups and exo, but it doesn't matter 
   
 
 <br/>  
