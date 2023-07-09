@@ -1,11 +1,9 @@
+### <div align="center">I'm Daniela, a developer learner since 2021 👩‍💻 studying to be great in front-end </div>  
+
 <div align="center">
 <img src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif" align="center" style="width: 100%" />
 
 </div>  
-  
-
-### <div align="center">I'm Daniela, a developer learner since 2021 👩‍💻 studying to be great in front-end </div>  
-  
 
 - 🔺 I’m currently studying JavaScript, HTML, CSS and ReactJS 
   
