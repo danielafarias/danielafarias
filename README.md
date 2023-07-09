@@ -22,7 +22,7 @@
 
  # About me
 <p>
- <img align="right"  src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif" alt="Coding gif" />
+ <img align="right" width="300px" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3499c198-cec1-4233-bb25-eb70ccf76826_512x512.gif" alt="Coding gif" />
   
  ❤️ &emsp; My favorite stack is React, TypeScript and Styled-Components<br/><br/>
  👍 &emsp; I like to learn everything<br/><br/>
