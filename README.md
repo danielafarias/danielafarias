@@ -91,6 +91,10 @@
 
 <br/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielafarias&v=2&theme=radical">
+
+<br/>
+
 ## Listen with me  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22egat2oz5hv5esopnnlmiwiq&cover_image=true&theme=default" /></div>
