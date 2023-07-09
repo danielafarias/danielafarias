@@ -5,16 +5,16 @@
 
 [![wakatime](https://wakatime.com/badge/user/6eef1779-d59a-45df-acdd-6e47bcb9a493.svg)](https://wakatime.com/@6eef1779-d59a-45df-acdd-6e47bcb9a493)
 
+<br/>
+
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; I'm Daniela, a developer learner since 2021</samp>
 </h3>
 
-
 <p align="center"> 
   <samp>
     「 studying to be great in front-end 」
-    <br>
     <br>
   </samp>
 </p>
