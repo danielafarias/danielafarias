@@ -91,7 +91,11 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielafarias&v=2&theme=radical&border_color=141321">
+<p align="center">
+  <a href="https://github.com/danielafarias">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=danielafarias&v=2&theme=radical&border_color=141321">
+  </a>
+</p>
 
 <br/>
 
