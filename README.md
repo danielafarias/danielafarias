@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.tenor.com/vAMzuyQ6djMAAAAC/welcome-back-vampire-knight.gif" align="center" style="width: 100%" />
+<img src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif" align="center" style="width: 100%" />
 
 </div>  
   
