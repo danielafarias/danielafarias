@@ -16,6 +16,11 @@
     <br>
   </samp>
 </p>
+
+<p align="center">
+  <img src="https://lanyard.kyrie25.me/api/758864057234882561?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+</p>
+
 <br />
 
 <hr/>
