@@ -2,14 +2,12 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=danielafarias&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
 [![wakatime](https://wakatime.com/badge/user/6eef1779-d59a-45df-acdd-6e47bcb9a493.svg)](https://wakatime.com/@6eef1779-d59a-45df-acdd-6e47bcb9a493)
 
 <br/>
 
-<!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; I'm Daniela, a developer learner since 2021</samp>
+  <samp>&gt; I'm Daniela, a developer learner since 2021</samp>
 </h3>
 
 <p align="center"> 
@@ -20,9 +18,9 @@
 </p>
 <br />
 
-<!-- About Section -->
+<hr/>
+
  # About me
- 
 <p>
  <img align="right"  src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif" alt="Coding gif" />
   
@@ -31,9 +29,8 @@
  🎯 &emsp; My current goal is to learn new front-end and fullstack technologies<br/><br/>
  🎨 &emsp; Interest in improving my UX/UI knowledge<br/><br/>
  💬 &emsp; Ask me about anything related to stay up until 5 am programming
-
 </p>
-<br/>
+
 <br/>
 
 ## Use To Code
@@ -76,10 +73,11 @@
 </p>
 
 <a> 
-    <a href="https://github.com/danielafarias"><img alt="Daniela's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danielafarias&show_icons=true&count_private=true&theme=react&border_color=AE81FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/danielafarias"><img alt="Daniela's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danielafarias&show_icons=true&count_private=true&theme=react&border_color=AE81FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/danielafarias"><img alt="Daniela's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danielafarias&langs_count=8&layout=compact&theme=react&border_color=AE81FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
 </a>
+
+<br/>
 
 ## Listen with me  
 
@@ -87,11 +85,14 @@
 
 <br/>
 
-## Connect with me  
+<hr/> 
+
+<br />
+
 <div align="center">
-<a href="https://linkedin.com/in/danielacfarias" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+  <a href="https://linkedin.com/in/danielacfarias" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin   style="margin-bottom: 5px;" />
+  </a>
 <a href="https://instagram.com/danic.farias" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
@@ -99,3 +100,4 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div> 
+<br/>
