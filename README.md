@@ -26,9 +26,10 @@
 <p>
  <img align="right"  src="https://ggames.com.br/uploads/monthly_2022_12/capoo-blue-cat.thumb.gif.9befb2b13fcc4b87a605101934ddcdb5.gif" alt="Coding gif" />
   
- ✌️ &emsp; I’m currently studying JavaScript, HTML, CSS and ReactJS <br/><br/>
- ❤️ &emsp; I’m currently learning TypeScript, Node.js, NextJS and NestJS<br/><br/>
- 📧 &emsp; Fun fact: I am ISTP-T personality and a fan of niziu, girl groups and exo, but it doesn't matter<br/><br/>
+ ❤️ &emsp; My favorite stack is React, TypeScript and Styled-Components<br/><br/>
+ 👍 &emsp; I like to learn everything<br/><br/>
+ 🎯 &emsp; My current goal is to learn new front-end and fullstack technologies<br/><br/>
+ 🎨 &emsp; Interest in improving my UX/UI knowledge<br/><br/>
  💬 &emsp; Ask me about anything related to stay up until 5 am programming
 
 </p>
