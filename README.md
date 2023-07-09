@@ -1,5 +1,5 @@
 <a href="https://komarev.com/ghpvc/?username=danielafarias">
-  <img align="right" src="https://komarev.com/ghpvc/?username=danielafarias&label=Visitors&color=FF4154&style=flat" alt="Profile visitor" />
+  <img align="right" src="https://komarev.com/ghpvc/?username=danielafarias&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -65,7 +65,7 @@
 ## Github Stats 
 <p align="center">
   <a href="https://github.com/danielafarias">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielafarias&theme=radical&border=7F3FBF&background=0D1117" alt="Daniela's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielafarias&theme=radical&border=AE81FF&background=0D1117" alt="Daniela's GitHub streak"/>
   </a>
 </p>
 
@@ -76,17 +76,16 @@
 </p>
 
 <a> 
-    <a href="https://github.com/danielafarias"><img alt="Daniela's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danielafarias&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/danielafarias"><img alt="Daniela's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danielafarias&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/danielafarias"><img alt="Daniela's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=danielafarias&show_icons=true&count_private=true&theme=react&border_color=AE81FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/danielafarias"><img alt="Daniela's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=danielafarias&langs_count=8&layout=compact&theme=react&border_color=AE81FF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-## Recent Blog Posts  
-  
-
-<br/>  
+## Listen with me  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=22egat2oz5hv5esopnnlmiwiq&cover_image=true&theme=default" /></div>
+
+<br/>
 
 ## Connect with me  
 <div align="center">
