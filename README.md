@@ -20,6 +20,8 @@
 
 <hr/>
 
+<br />
+
  # About me
 <p>
  <img align="right" width="250px" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3499c198-cec1-4233-bb25-eb70ccf76826_512x512.gif" alt="Coding gif" />
@@ -90,7 +92,7 @@
 <br />
 
 <div align="center">
-  <a href="https://linkedin.com/in/danielacfarias" target="_blank">
+  <a href="https://linkedin.com/in/daniela-farias-dev" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin   style="margin-bottom: 5px;" />
   </a>
 <a href="https://instagram.com/danic.farias" target="_blank">
