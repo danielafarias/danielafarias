@@ -85,6 +85,11 @@
 </a>
 
 <br/>
+<br/>
+
+<img align="center" src="https://github-trophies.vercel.app/?username=danielafarias&rank=SECRET,SSS,SS,S,AAA,AA&row=2&column=8&theme=radical">
+
+<br/>
 
 ## Listen with me  
 
